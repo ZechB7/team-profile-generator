@@ -1,0 +1,22 @@
+.jumbotron {
+    border-radius: 0;
+    background-color: red;
+}
+
+.engineer-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+}
+
+.manager-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+}
+
+.intern-card {
+    box-shadow: 5px 5px 5px gray;
+    margin: 1rem;
+    border: none;
+}
