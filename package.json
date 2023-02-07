@@ -1,0 +1,26 @@
+{
+    "name": "team_profile_generator",
+    "version": "1.0.0",
+    "description": "Generates an html from users input in the terminal",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/zechb7/team_profile_generator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/zechb7/team_profile_generator/issues"
+    },
+    "homepage": "https://github.com/zechb7/team_profile_generator#readme",
+    "dependencies": {
+      "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+      "jest": "^29.4.1"
+    }
+  }
+  
