@@ -19,6 +19,8 @@ To install necessary dependencies, run the following command in the terminal usi
 ## Usage 
 In the terminal on package.json run "node index.js" then answer the prompts about your team.
 
+[Watch it being used](https://drive.google.com/file/d/1mdMFT1jIeWuAxP_VlycqIM9rL9ktCmGa/view)
+
 ## License
 This project is licensed under the MIT license.
     
@@ -26,6 +28,8 @@ This project is licensed under the MIT license.
 ## Tests
 To run tests, run the following command:
 npm run test
+
+[Watch the test being ran](https://drive.google.com/file/d/1Z43_tpsWS21EgoaLVH4BZM0WMgUkJerT/view)
 
 ## Questions
 Contact me through email.
