@@ -23,11 +23,11 @@ function createHtml(teamArray) {
         ${createTeam(teamArray)}
     </div>
     </div>
-      <script
+    <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous">
-        </script>
+    </script>
   </body>
   </html>
         `
@@ -62,7 +62,7 @@ function createTeam(teamArray) {
         <ul class="list-group">
             <li class="list-group-item">ID: ${teamArray[i].getId()}</li>
             <li class="list-group-item">Email: <a href="mailto:${teamArray[i].getEmail()}">${teamArray[i].getEmail()}</a></li>
-            <li class="list-group-item">GitHub Link: <a href="https://github.com/${teamArray[i].getGithub()}" target="_blank">${teamArray[i].getGithub()}</a></li>
+            <li class="list-group-item">GitHub Link: <a href="https://github.com/${teamArray[i].getGitHub()}" target="_blank">${teamArray[i].getGitHub()}</a></li>
         </ul>
     </div>  
   </div>

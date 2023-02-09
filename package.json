@@ -4,7 +4,7 @@
     "description": "Generates an html from users input in the terminal",
     "main": "index.js",
     "scripts": {
-      "test": "jest"
+      "test": "jest --verbose"
     },
     "repository": {
       "type": "git",
